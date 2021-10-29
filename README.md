@@ -1,2 +1,2 @@
 # freecad
-Making 3d models, mainly fir printing
+Making 3d models, mainly for printing
